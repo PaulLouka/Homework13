@@ -1,0 +1,28 @@
+body{
+      background-image: url('back.jpg');
+      position:absolute;
+       right:50px;
+       background-repeat: no-repeat;
+}
+
+li{
+      margin-left: 50px;
+      background-color: rgb(255, 255, 255);
+
+}
+.navbar{
+      height: 30px;
+      background: transparent;
+      margin-top: 60px;
+}
+p{
+      color: rgb(19, 20, 65);
+      font-size: 22px;
+      width: 600px;
+      float: left;
+      margin-right: 100px;
+      margin-top: 200px;
+      text-shadow: 1px 1px rgb(195, 214, 231);
+
+}
+
